@@ -34,9 +34,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-fail: https://imgur.com/KnD748Y
-streak: https://imgur.com/1zcxzxH
-invalid: https://imgur.com/ckv24XO
+<img src='https://i.imgur.com/KnD748Y.gif' title='fail' width='' alt='fail' />
+<img src='https://i.imgur.com/1zcxzxH.gif' title='streak' width='' alt='streak' />
+<img src='https://i.imgur.com/ckv24XO.gif' title='invalid' width='' alt='invalid' />
 
 
 ## Notes

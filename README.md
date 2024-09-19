@@ -19,13 +19,13 @@ The following **required** functionality is completed:
     - Sender
     - Email title
     - Email summary
-  <img src="https://i.imgur.com/CD6nnHe.gif'/>
+  <img src="https://i.imgur.com/CD6nnHe.gif"/>
 ### Stretch Features
 
 The following **stretch** functionality is implemented:
 
 - [x ] (3 pts) **User can press a 'Load More' button to see the next 5 emails displayed.**
-  <img src="https://i.imgur.com/CD6nnHe.gif'/>
+  <img src="https://i.imgur.com/CD6nnHe.gif"/>
 - [ ] (3 pts) **Each email displays additional information:**
   - Picture of the sender
   - Email sent date

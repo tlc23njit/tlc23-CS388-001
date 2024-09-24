@@ -4,7 +4,7 @@ Submitted by: **Tyler Cao**
 
 **WishList** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.[imgur.com/F0mU4jW](https://imgur.com/FItkKbY).gif" />
+<img src="https://i.imgur.com/a/0oodU6d.gif" />
 
 
 ## Notes

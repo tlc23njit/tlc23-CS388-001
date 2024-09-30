@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/KnD748Y.gif' title='fail' width='' alt='fail' />
 <img src='https://i.imgur.com/1zcxzxH.gif' title='streak' width='' alt='streak' />
-<img src='https://i.imgur.com/ckv24XO.gif' title='invalid' width='' alt='invalid' />
+<img src='https://i.imgur.com/64k6hLA.gif' title='invalid' width='' alt='invalid' />
 
 
 ## Notes

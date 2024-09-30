@@ -40,7 +40,7 @@ The following **stretch** functionality is implemented:
 - [ ] (+2 bonus pts) **User has progressively difficult goals to reach in terms of the number of taps accumulated.**  
   - Display each goal on the screen, and track the total number of goals reached.
   - Use a Toast to notify of a reached goal.
-  <img src='https://i.imgur.com/XWj1rzq.gif' title='invalid' width='' alt='invalid' />
+  <img src='https://i.imgur.com/XWj1rzq.gif' title='tap' width='' alt='invalid' />
 
 ## Notes
 

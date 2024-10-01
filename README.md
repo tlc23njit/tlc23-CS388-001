@@ -27,7 +27,7 @@ The following **stretch** functionality is implemented:
 - [ x] (4 pts) **Improved layout and styling to match the NY Times website.**
   - Includes a "buy" button that links to Amazon.
   - https://i.imgur.com/oLqJlBl.gif
-<img src='https://i.imgur.com/64k6hLA.gif' title='invalid' width='' alt='invalid' />
+ - Don't know why gif isn't working, but link does.
 <img src='https://i.imgur.com/oLqJlBl.gif' title='books' width='' alt='books' />
 
 ## Notes

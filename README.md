@@ -28,6 +28,7 @@ The following **stretch** functionality is implemented:
   - Includes a "buy" button that links to Amazon.
   - https://i.imgur.com/oLqJlBl.gif
 <img src='https://i.imgur.com/oLqJlBl.gif' title='books' width='100' alt='fail' />
+<img src='https://i.imgur.com/64k6hLA.gif' title='invalid' width='' alt='invalid' />
 ## Notes
 
 Learning to use json to work with the NYT API. Also trying to figure out how to use an API key without hardcoding it. 

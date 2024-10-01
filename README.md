@@ -15,7 +15,7 @@ Time spent: **3** hours spent in total <!-- Replace 'X' with the number of hours
 The following **required** functionality is completed:
 
 - [x ] (2 pts) **Live data is loaded from the NY Times API.**
-  - ![Image/GIF showing additional email information](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+- https://i.imgur.com/oLqJlBl.gif
 - [ x] (4 pts) **Books are displayed using a RecyclerView.**
   - Displays book ranking, cover, title, author, and description.
   - Book cover images are downloaded using Glide.
@@ -27,7 +27,7 @@ The following **stretch** functionality is implemented:
 - [ x] (4 pts) **Improved layout and styling to match the NY Times website.**
   - Includes a "buy" button that links to Amazon.
   - https://i.imgur.com/oLqJlBl.gif
-  <img src='https://i.imgur.com/oLqJlBl.gif' title='books' width='100' alt='fail' />
+<img src='https://i.imgur.com/oLqJlBl.gif' title='books' width='100' alt='fail' />
 ## Notes
 
 Learning to use json to work with the NYT API. Also trying to figure out how to use an API key without hardcoding it. 

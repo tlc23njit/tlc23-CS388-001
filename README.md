@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/IsxPGUu.gif' />
+<img src="http://i.imgur.com/IsxPGUu.gif" />
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes

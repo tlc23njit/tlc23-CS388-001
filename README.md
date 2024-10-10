@@ -30,16 +30,12 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/IsxPGUu.gif' title='Movies' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Ensuring the API's information is binding correctly. Learning how to use APIkeys and apikey.properties.
 ## License
 
     Copyright [yyyy] [name of copyright owner]

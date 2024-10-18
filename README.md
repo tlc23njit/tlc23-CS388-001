@@ -23,6 +23,7 @@ The following **required** functionality is completed:
 - [x ] (3 pts) **Article images are downloaded and displayed using Glide.**
   - ![Image/GIF showing Glide usage](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 https://i.imgur.com/yS4yko5.gif
+- ^This should be all 3 I think.
 ### Stretch Features
 
 The following **stretch** functionality is implemented:

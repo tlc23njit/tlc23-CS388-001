@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 - [ x] (2 pts) **If user turns on airplane mode and closes and reopens app, old data from the database should be loaded**
   - ![GIF showing offline mode functionality](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
-<img src='http://i.imgur.com/X2hQu0h.gif'  />
+<img src='http://i.imgur.com/X2hQu0h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ### Stretch Features
 
 The following **stretch** functionality is implemented:

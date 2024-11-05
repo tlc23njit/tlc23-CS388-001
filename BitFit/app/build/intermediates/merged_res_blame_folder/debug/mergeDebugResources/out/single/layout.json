@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Tyler\\.gradle\\daemon\\8.7\\com.example.bitfit.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Tyler\\.gradle\\daemon\\8.7\\com.example.bitfit.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tyler\\.gradle\\daemon\\8.7\\com.example.bitfit.app-mergeDebugResources-39:\\layout\\water.xml",
+        "source": "C:\\Users\\Tyler\\.gradle\\daemon\\8.7\\com.example.bitfit.app-main-42:\\layout\\water.xml"
+    },
+    {
+        "merged": "com.example.bitfit.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.bitfit.app-main-42:/layout/activity_main.xml"
+    }
+]

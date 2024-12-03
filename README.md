@@ -82,7 +82,9 @@ In Game Jeopardy Board
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/c30ad0v.png" width=600>
+<img src="https://i.imgur.com/EJMywrr.png" width=600>
+
 
 ## Issue cards
 
@@ -92,7 +94,9 @@ this section]
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- Database Interactivity
+- Question Database
+- <img src="https://i.imgur.com/YqLxTJz.png" width=600>
 
 <br>
 

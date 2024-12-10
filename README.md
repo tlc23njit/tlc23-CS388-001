@@ -111,12 +111,17 @@ this section]
 - List the completed user stories from this unit
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
+Completed User Stories:
 Trivia Database: It stores all the questions, answers, and point totals
 Upload Questions to Database: Upload any question to the database by inputting the question, answer, point total, and category, and then hitting submit
 Question Detail Activity: When you press on a question on the jeopardy board, it goes to a separate screen that shows the question, answer, and point amount
 Team Point System: Below the jeopardy board in the game fragment, there is a horizontal recycler view, with team name, point total, and a plus and minus button, which will either add 100 or subtract 100 respectively
+Pending User stories:
+The recycler view isn't working for some reason.
+
 [Add video/gif of your current application that shows build progress]
-<img src="https://i.imgur.com/7djgfs.pngs" width=600>
+<img src="https://i.imgur.com/7djgfs.png" width=600>
+<img src="(https://i.imgur.com/d7PjtcN.png" width=600>
 
 ## App Demo Video
 

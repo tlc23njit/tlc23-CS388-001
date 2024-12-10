@@ -120,8 +120,8 @@ Pending User stories:
 The recycler view isn't working for some reason.
 
 [Add video/gif of your current application that shows build progress]
-<img src="https://i.imgur.com/7djgfs.png" width=600>
-<img src="(https://i.imgur.com/d7PjtcN.png" width=600>
+<img src="https://i.imgur.com/h6zXF1K.gif" width=600>
+<img src="https://i.imgur.com/d7PjtcN.png" width=600>
 
 ## App Demo Video
 

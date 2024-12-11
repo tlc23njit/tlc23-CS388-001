@@ -82,7 +82,9 @@ In Game Jeopardy Board
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/c30ad0v.png" width=600>
+<img src="https://i.imgur.com/EJMywrr.png" width=600>
+
 
 ## Issue cards
 
@@ -92,7 +94,9 @@ this section]
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- Database Interactivity
+- Question Database
+- <img src="https://i.imgur.com/YqLxTJz.png" width=600>
 
 <br>
 
@@ -107,9 +111,17 @@ this section]
 - List the completed user stories from this unit
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
+Completed User Stories:
+Trivia Database: It stores all the questions, answers, and point totals
+Upload Questions to Database: Upload any question to the database by inputting the question, answer, point total, and category, and then hitting submit
+Question Detail Activity: When you press on a question on the jeopardy board, it goes to a separate screen that shows the question, answer, and point amount
+Team Point System: Below the jeopardy board in the game fragment, there is a horizontal recycler view, with team name, point total, and a plus and minus button, which will either add 100 or subtract 100 respectively
+Pending User stories:
+The recycler view isn't working for some reason.
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/h6zXF1K.gif" width=600>
+<img src="https://i.imgur.com/d7PjtcN.png" width=600>
 
 ## App Demo Video
 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuestionFragment" >
+
+    <EditText
+        android:id="@+id/Q2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Question: "
+        android:inputType="text"
+        android:longClickable="false"
+        android:text=""
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/A2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Answer: "
+        android:inputType="text"
+        android:longClickable="false"
+        android:text=""
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Q2" />
+
+    <EditText
+        android:id="@+id/P2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Points: "
+        android:inputType="text"
+        android:longClickable="false"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/C2" />
+
+    <EditText
+        android:id="@+id/C2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="Category: "
+        android:inputType="text"
+        android:longClickable="false"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/P2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

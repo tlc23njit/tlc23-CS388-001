@@ -1,7 +1,0 @@
-com.codepath.articlesearch.test.app-androidTest-0 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\build\generated\res\resValues\androidTest\debug
-com.codepath.articlesearch.test.app-androidTest-1 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\build\generated\res\rs\androidTest\debug
-com.codepath.articlesearch.test.app-mergeDebugAndroidTestResources-2 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.codepath.articlesearch.test.app-mergeDebugAndroidTestResources-3 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.codepath.articlesearch.test.app-merged_res-4 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\build\intermediates\merged_res\debugAndroidTest
-com.codepath.articlesearch.test.app-androidTest-5 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\src\androidTest\res
-com.codepath.articlesearch.test.app-androidTestDebug-6 C:\Users\Tyler\AndroidStudioProjects\and102-lab6-starter-main\app\src\androidTestDebug\res

@@ -107,17 +107,14 @@ this section]
 [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## Completed user stories
-
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
-Completed User Stories:
-Trivia Database: It stores all the questions, answers, and point totals
-Upload Questions to Database: Upload any question to the database by inputting the question, answer, point total, and category, and then hitting submit
-Question Detail Activity: When you press on a question on the jeopardy board, it goes to a separate screen that shows the question, answer, and point amount
-Team Point System: Below the jeopardy board in the game fragment, there is a horizontal recycler view, with team name, point total, and a plus and minus button, which will either add 100 or subtract 100 respectively
-Pending User stories:
-Wasn't able to retrieve trivia questions from online api
+- Completed User Stories:
+  -Trivia Database: It stores all the questions, answers, and point totals
+  - Upload Questions to Database: Upload any question to the database by inputting the question, answer, point total, and category, and then hitting submit
+  - Question Detail Activity: When you press on a question on the jeopardy board, it goes to a separate screen that shows the question, answer, and point amount
+  - Team Point System: Below the jeopardy board in the game fragment, there is a horizontal recycler view, with team name, point total, and a plus and minus button, which will either add 100 or subtract 100 respectively.\n
+- Pending User stories:
+  - Wasn't able to retrieve trivia questions from online api
+  - Organize the Questions
 
 [Add video/gif of your current application that shows build progress]
 <img src="https://i.imgur.com/h6zXF1K.gif" width=600>
@@ -126,4 +123,5 @@ Wasn't able to retrieve trivia questions from online api
 
 ## App Demo Video
 
-- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+-demo: https://youtu.be/R8-eJGPU_WU
+-slides: https://docs.google.com/presentation/d/1PsIu7P8HA9VPZwLJ-In4z3CHkPj37EL6LsvJ0mi3a0s/edit#slide=id.p

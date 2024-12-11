@@ -123,5 +123,5 @@ this section]
 
 ## App Demo Video
 
-- demo: https://youtu.be/R8-eJGPU_WU
+- demo: https://youtu.be/JT8XELrxc08
 - slides: https://docs.google.com/presentation/d/1PsIu7P8HA9VPZwLJ-In4z3CHkPj37EL6LsvJ0mi3a0s/edit#slide=id.p

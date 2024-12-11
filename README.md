@@ -117,11 +117,12 @@ Upload Questions to Database: Upload any question to the database by inputting t
 Question Detail Activity: When you press on a question on the jeopardy board, it goes to a separate screen that shows the question, answer, and point amount
 Team Point System: Below the jeopardy board in the game fragment, there is a horizontal recycler view, with team name, point total, and a plus and minus button, which will either add 100 or subtract 100 respectively
 Pending User stories:
-The recycler view isn't working for some reason.
+Wasn't able to retrieve trivia questions from online api
 
 [Add video/gif of your current application that shows build progress]
 <img src="https://i.imgur.com/h6zXF1K.gif" width=600>
 <img src="https://i.imgur.com/d7PjtcN.png" width=600>
+<img src="https://i.imgur.com/Bf5EF7h.gif" width=600>
 
 ## App Demo Video
 
